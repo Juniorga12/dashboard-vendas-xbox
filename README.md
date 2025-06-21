@@ -58,7 +58,7 @@ O dashboard foi construído com:
 
 ## 📅 Datas no Dashboard
 - Período analisado: *01/01/2024 até 31/12/2024*
-- Última atualização dos dados: *25/12/2024*
+- Última atualização dos dados: *20/06/2025*
 
 ---
 
@@ -68,5 +68,5 @@ Desafio desenvolvido no programa *Santander Coders - Excel com Inteligência Art
 ---
 
 ## 🚀 Autor
-- Desenvolvido por [Seu Nome Aqui]
--
+- Desenvolvido por [Gabriel Junior]
+
